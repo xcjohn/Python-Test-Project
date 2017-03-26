@@ -2,3 +2,4 @@
 
 a = {'Name':'John','Age':40}
 print(a)
+print(a['Name'])
